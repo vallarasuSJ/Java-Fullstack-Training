@@ -1,0 +1,11 @@
+To classify the screens use div element.
+ Learnt how to use display, padding , border and other elements.
+
+To host the website in github, save html files as index.html, css files  as style.css. Go to settings->pages->change into main branch->save->actions->build and deployment.
+
+In html, same class name can be used for multiple classes. 
+
+
+
+Built one web page,
+https://vallarasusj.github.io/indexHtml/
