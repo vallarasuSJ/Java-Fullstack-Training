@@ -1,0 +1,34 @@
+Basics of Html
+--------------
+1. Input Tags
+    *Text
+    *Number
+    *Radio Button
+    *Check Box
+    *Submit Button
+
+2. Span Tags
+3. Nav Tags
+4. Paragraph Tags
+5. Tables
+    *thead
+    *tbody
+    *tfoot
+    *th
+    *tr
+    *td
+6. HTML Images
+7. HTML Hyperlinks
+8. HTML Audio
+
+Basics of Css
+-------------
+1. CSS Selectors
+    *Tag Selectors (p,nav,table)
+    *Attribute Selectors(#id) -->Unique
+    *Class Selectors(.logo)
+    *Input Selectors(input [type="text])
+
+    *Relational Selectors
+    *Pseudo element Selectors
+    *Pseudo Selectors

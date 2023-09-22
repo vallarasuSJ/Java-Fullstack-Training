@@ -1,0 +1,92 @@
+Basics of Storage and Processing:
+---------------------------------
+Hard Disk - The size of the hard disk can in the level of TB. The read and write process is slow here.
+RAM - Random Access Memory. The size of the RAM is always in the form of 2^n. The Read and Write process is fast here.
+Cache - Very Less amount of Memory. The read and write process is very fast.
+CPU - Central Processing Unit. CPU consists of Hard disk, RAM, Cache.
+
+
+Basics of Communication between client and server:
+-------------------------------------------------
+Client - Makes a request either through an application or something.
+Load Balancer - The purpose of load balancer is to split the request to different servers.
+Log - The log consists of all the request and response details.
+Metrics - The health check of the server is done by comparing the log and the server data.
+
+Example : Consider whatsapp is sending an request. First the request is sent to the load balancer and then to
+the server and the response is generated from the server.
+
+
+Scenerio : OTPs in whatsapp
+--------------------------
+If a person books a ticket in redbus or orders something in meesho the OTP is generated and sent to the person's
+whatsapp number. In this kind of things the redbus or the meesho server communicates with the whatsapp server.
+
+
+Process involved in developing and deploying an application:
+------------------------------------------------------------
+Coding --> Build and deploy --> Server --> Database
+`
+
+How servers are commnicated?
+Servers are communicated using the IP address.
+
+
+TCP vs UDP
+----------
+TCP - Transmission Control Protocol
+1. Slow
+2. Incase of any data loss data can be retrived
+3. Three way hand shaking
+
+UDP - User Datagram Protocol
+1. Fast
+2. Incase of any data loss data cannot be retrived
+3. Example : Video Call
+
+How Data is transferred in packets?
+A packet Consists of the header information like the size of the packet and the order.
+
+
+API
+---
+API - Application Programming Interface
+An Api is used to communicate between two software components
+
+Types of API
+1. REST - Representational State Transfer
+2. GraphQL
+3. gRPC
+
+
+HTTP Methods:
+------------
+1. GET
+2. POST
+3. PUT
+4. DELETE
+
+
+DNS
+---
+Domain Name System
+The DNS is used to get the IP using the name.
+
+Example: Google.com --> Google IP
+
+
+Git vs github
+-------------
+Git is used for the local user purpose to develop and make changes in the code.
+github is used to commit and push the project that the person developed and to make the changes live in the github.
+
+
+CDN
+---
+Content Delivery Network is used to communicated with the main server via multiple servers.
+
+
+
+Html Css Website
+----------------
+https://github.com/vallarasuSJ/html-first-website
