@@ -1,0 +1,65 @@
+Bootstrap
+layout->responsive (inspect+device element+responsive)
+
+ 
+
+1.container
+2.container-fluid(not left side space)
+3.navbar
+4.mdb bootstrap website for card page
+5.carouse for images slide move
+6.add to cart in bootstrap webpage
+
+ 
+
+javascript
+dommanipulation/logic
+<script src="" defer></script>-->title ,after body render it work
+
+ 
+
+datatype-->var,let,const
+types->str,num,bool,null(object)
+obj={},array=[]
+
+ 
+
+function -->function name(){
+}name();
+arrow function-->function name=()=>{}//histring problm
+conditional operator--> 1=="1"-->true
+1==="1"-->false(data type check)
+
+ 
+
+for(let k of keys)->single array
+for(let kk in keys)-->keys /values but it display only keys
+back tick(``)-->console.log(`${name} +is ${age}+years old)
+object distraction -->let {variable}=objname
+
+ 
+
+spread operator-->[...arr1,...arr2]  combine the two array
+rest operator -->always use paramter
+const add=(a,...rest){console.log(rest)}add(5)
+
+ 
+
+*****map reduce ,filter,fetch,asyn********** use array
+map()*2=>new array produce/manipulate the array==>arr.map(a){}
+filter==>same and new array size not same
+reduce==>.reduce((accumulator,current)=>{},0)
+accumulator=>initial value
+
+ 
+
+promise==>resolve,reject
+const res=90=>{return new promise((resolve,reject)=>{});
+};
+
+ 
+
+const asyncAwait=()=>{
+const sum=await result();
+console.log(sum)};
+asyncAwait();
