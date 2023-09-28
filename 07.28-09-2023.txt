@@ -1,0 +1,40 @@
+javascript learnings:
+
+button onclick() -> function executes certain functionality when the button is clicked 
+
+innertext -> used to write and display it in the specific element.  
+
+querySelector -> used to access the specific element by mentioning id or class.
+
+target.value -> to get the input from the field. 
+
+* written one addition javascript program. 
+
+* built one login page for e-commerce website using bootstrap. 
+
+To Build an E-Commerce website with the following reqirements 
+------------------------------------------------------------
+    *Admin 
+        -Login 
+        -Sign Up 
+        -Products 
+            1.Add Products 
+            2.Remove Products
+            3.View Products 
+        -Orders 
+            1.No.of Orders 
+            2.No.of Orders 
+            3.Status of the order 
+    *User 
+        -Login 
+        -Sign Up 
+        -Products 
+            1.View Products 
+            2.Add/Buy Products 
+        -Cart 
+            1.Add Products 
+            2.Checkout 
+        -Orders 
+            1.View Orders 
+            2.Status
+
