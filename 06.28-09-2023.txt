@@ -1,0 +1,32 @@
+Java Script Topics
+------------------
+    *Variables 
+    *Const 
+    *Primitive types
+    *JS is a dynamic language 
+    *Object 
+    *Nested Objects 
+    *Arrays 
+    *Functions 
+    *Types of function
+    *Conditional 
+    *Loop 
+    *Literals 
+    *Destructing Objects
+    *Spread 
+    *Rest 
+    *Async Await 
+    *Map Reduce Filter 
+    *Fetch
+
+ 
+
+ 
+
+--> Created a sample website that accepts inputs and displays it using bootstarp and javascript.
+
+ 
+
+Website link 
+------------
+https://vallarasusj.github.io/phone-book-js/
