@@ -1,0 +1,8 @@
+Built an web application with the following requirements
+ --------------------------------------------------------
+*A page with products (product details and Add to cart button) 
+
+*Cart page with items and remove button
+
+*map,filter,find function can't be used when the array declared as const . 
+

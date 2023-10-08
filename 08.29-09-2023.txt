@@ -1,0 +1,17 @@
+Javascript Concepts with E-commerce web application
+---------------------------------------------------
+    *localStorage 
+        1.getItem 
+        2.setItem
+    *SessionStorage
+        1.getItem
+        2.setItem 
+    *location 
+        1.pathname
+        2.replace
+        3.href 
+    *Map, Reduce, Filter 
+    *Find 
+    *Hidden Field 
+    *url parameter
+    *random number generator

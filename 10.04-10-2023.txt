@@ -1,0 +1,22 @@
+Built an E-commerce website assessment using the following requirements:
+    *Login In
+    *Sign Up 
+    *Admin
+    *User 
+    *Products 
+    *Add Products 
+    *Edit Products 
+    *Remove Products 
+    *Cart 
+    *Orders 
+    *Logout 
+    *View Products 
+using
+    *HTML 
+    *CSS 
+    *Bootstrap 
+    *Java Script
+
+ 
+So far complete the above requirements.
+ 

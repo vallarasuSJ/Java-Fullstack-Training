@@ -1,0 +1,25 @@
+Completed the E-commerce website assessment using the following requirements:
+    *Login In
+    *Sign Up 
+    *Admin
+    *User 
+    *Products 
+    *Add Products 
+    *Edit Products 
+    *Remove Products 
+    *Cart 
+    *Orders 
+    *Approve or Reject Order 
+    *Logout 
+    *View Products 
+using
+    *HTML 
+    *CSS 
+    *Bootstrap 
+    *Java Script
+
+ 
+
+Github Website link 
+------------------- 
+https://vallarasusj.github.io/Ecommerce-website/
