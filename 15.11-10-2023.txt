@@ -17,7 +17,13 @@ To create service:
 
 *ng g s service/courses ("ng generate service service/filename") 
 
-----------------------------------------
+-------------------------------------------------
+
+To create interface:
+
+*ng g i model/vehicle ("to create an interface)
+
+---------------------------------------------------
 
 single page application- SPA (doesn't reload). eg:gmail. 
   * component is a building block of the application.  
@@ -25,4 +31,14 @@ single page application- SPA (doesn't reload). eg:gmail.
   *@ is an decorator- higher order function(the function that returns function.)
   *appModule is a class.
 
-  * property binding =[];
+  * property binding =[]; 
+
+  *import FormModule to access [(ngModel)] for event listener. 
+
+  -----------------------------------------------
+
+  HTML-> component.ts -> service.ts 
+              (or)
+  service.ts->component.ts -> HTML
+
+
