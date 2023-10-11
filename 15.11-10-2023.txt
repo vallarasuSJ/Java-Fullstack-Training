@@ -1,0 +1,28 @@
+Angular:
+
+To access angular project,
+
+*users->setup project -> terminal->git bash -> ng serve -> to get a local host.  
+
+------------------------------------------
+
+To create component:
+
+*ng g c components/courses  ("ng generate component component/filename"). 
+
+
+--------------------------------------------
+
+To create service:
+
+*ng g s service/courses ("ng generate service service/filename") 
+
+----------------------------------------
+
+single page application- SPA (doesn't reload). eg:gmail. 
+  * component is a building block of the application.  
+
+  *@ is an decorator- higher order function(the function that returns function.)
+  *appModule is a class.
+
+  * property binding =[];

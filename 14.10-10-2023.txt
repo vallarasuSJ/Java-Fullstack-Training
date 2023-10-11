@@ -1,0 +1,26 @@
+typescript:
+
+class:
+
+*class always starts with capital letter
+*new- used to create an object. whenever we use new the RAM will create a new space for object.
+*inside a class cant use console.log, for that use method 
+
+
+-----------------------------------------
+example:-
+*class Vehicle{}
+create object:
+let obj = new Vehicle("orange");
+
+the orange is not an arguement , its an constructor.
+
+
+------------------------------------------
+Access modifiers:
+
+public is accessible everywhere,
+private is accessible only within the class,
+protected is accessible by extending the parent class using extends keyword. 
+
+
