@@ -1,0 +1,27 @@
+Angular concepts:
+
+*Declarations- whenever we create a new component , it will be added in App module.  
+
+*Services- business logic, all function. whenever we create a service , it we be manually added in provider->app module.
+
+* Directives - component, structural , attribute. 
+
+*Event binding - (click).
+
+*Interface - Define type -> object.
+
+*ngModel - to use ngModel import formModule in appModule. [(ngModel)] is a two way binding.
+
+* Model - It stores interface. 
+
+*ngFor - looping (structural Directive). 
+
+*provider - whenever we create service, it will be manually added in provider.
+
+*property binding - <p[]> 
+
+* to create angular project
+cmd-> ng new projectname -> y -> enter.  
+
+
+

@@ -3,8 +3,16 @@ To classify the screens use div element.
 
 To host the website in github, save html files as index.html, css files  as style.css. Go to settings->pages->change into main branch->save->actions->build and deployment.
 
-In html, same class name can be used for multiple classes. 
+In html, same class name can be used for multiple classes.  
 
+
+Tags used to build the website
+------------------------------
+    1.flex
+    2.div
+    3.form
+    4.pseudo Selectors
+    5.Relational selectors 
 
 
 Built one web page,
