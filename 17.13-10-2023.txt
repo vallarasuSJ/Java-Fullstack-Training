@@ -1,0 +1,37 @@
+Angular-concepts:-
+
+To create a new project ,
+cmd-> ng new filename 
+
+--------------------------------------------------------------
+
+Routing:
+
+*create components and add the component paths in app-routing.module.ts
+
+Example:-
+create component- ng g c components/filename
+
+*In app-routing.module.ts add path,
+
+const routes: Routes = [
+  { path: '', component: HomeComponent }
+  ]; 
+
+  { path: '**', component: notFoundComponent } is used for notFoundComponent.
+
+*In app.component.html:
+      include <router-outlet/> similar to  <router-outlet></router-outlet>
+              
+*In html, add routerLink=[''] to navigate between components.
+
+*routerLinkActive="active" is used to active the component.  
+
+
+-------------------------------------------------------------
+
+Assessments to-do:
+
+*Todo with different input fields- name, email, phoneNumber.
+
+*Create different e-commerce components including HTML page and  navigations using router-outlet.
