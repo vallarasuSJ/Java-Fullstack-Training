@@ -1,0 +1,52 @@
+
+Angular:- 
+
+Template drive form validation:
+
+1.ngForm:
+*create a onsubmit function in form with ngForm name
+
+example: 
+ <form (ngSubmit)="onSubmit(loginForm)" #loginForm="ngForm"> 
+
+*onsubmit function has been written in ts and authentication ts.
+*change the button type into submit.
+* it validates the whole form once it clicked. 
+
+2.ngSubmit 
+
+3.ngModel
+
+--------------------------------------------------------------------
+
+-Template driven directives are used for validation.
+
+ 1.Max length 
+
+2.Min length 
+
+3.Required
+
+ 
+
+*Reactive forms 
+
+    -It is a programmatic way to create forms.
+
+    -It uses [formControl].
+
+    *OnInit interface and ngOnInit method.
+
+    *Router navigate and replaceUrl.
+
+Task 
+
+----
+
+1. To build an E-commerce application using angular and add routing for the following requirements.
+
+    *Login with form validation.
+
+    *Register with form validation.
+
+*pipes -> one form to another form 
