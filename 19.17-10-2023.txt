@@ -1,0 +1,51 @@
+Angular Concepts
+----------------
+    *Auth guard 
+        -It's a feature to protect routes from unauthorized access.
+
+ 
+
+        Steps to create Auth guard 
+        --------------------------
+        1. Create auth guard using CLI.
+        2. Implement auth guard.
+        3. Use the auth guard.
+
+ 
+
+        - It has the following methods.
+            1. CanActivate
+            2. CanActivateChild
+            3. CanDeactivate 
+            4. CanMatch
+
+ 
+
+    *HTTPClientModule 
+        -Used for making HTTP requests.
+
+        HttpRequests used so for 
+        -----------------------
+        1.GET - for fetching data.
+
+ 
+
+        -Used subscribe method to obtain or generate values or messages with 
+            *next 
+            *complete 
+            *error
+
+ 
+
+ 
+
+Task 
+----
+1. To build an E-commerce application using angular for the following requirements.
+    *Login with form validation.
+    *Register with form validation.
+    *Home with products from API get request.
+    *Navbar 
+    *Cart with auth guard.
+    *Orders with auth guard.
+    *Logout 
