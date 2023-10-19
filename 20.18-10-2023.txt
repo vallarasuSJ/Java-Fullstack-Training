@@ -1,0 +1,35 @@
+Angular Concepts 
+----------------
+    *Observer
+        -It is used for listening changes from observable.
+
+ 
+
+ 
+
+Code changes - 1. Minimum API Calls 
+               2. Flow/Calls for services and components 
+               3. Add to cart function
+
+Tasks 
+-----
+1. Completed the E-commerce application using angular and add routing for the following requirements.
+    *Login with form validation.
+    *Register with form validation.
+    *Home with products from API get request.
+    *Navbar 
+    *Cart with auth guard.
+    *Orders with auth guard.
+    *Logout
+
+ 
+
+2. Completed the application for forms using angular for the following fields and operations.
+    *Name 
+    *Phone Number 
+    *E-mail 
+    *Operations 
+        1.Add 
+        2.Edit 
+        3.Delete 
+        4.View
