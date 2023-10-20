@@ -1,0 +1,104 @@
+ 
+
+Java concepts:-  
+
+------------------------
+
+Topics:-
+    *Data types 
+        -Integer
+        -Short
+        -long 
+        -double
+        -character
+        -float
+        -boolean
+
+    *operators  
+        -,+,*,&&,||
+
+    *array 
+        -Array initialization
+        -Array declaration
+
+    *conditional statements
+        -if else
+        -nested If 
+        -switch
+        -else if
+
+    *Iterations
+        -for loop 
+        -for each
+        -while
+        -do while
+
+    *Types of methods
+        -without argument
+        -with argument
+        -with return type 
+        -without return type   
+
+    *String , String builder, String buffer 
+    *Math 
+    *Try and catch 
+
+Task:
+---------------
+    Built an console app for ATM application.
+        -Balance
+        -Deposit
+        -withdrawal
+
+Errors:
+---------------
+
+    * Array should stored in curly brackets not square brackets. 
+         int a[]=[1,2,3]              //error occurs 
+
+    * Array declaration the square bracket comes next to the data type.
+        eg: 
+         int arr[]=new int[5]; // error occurs 
+
+    * Each data must be mentioned with that index.
+        eg:
+        int[] arr=new int[5]; 
+        arr[0]=1;  
+
+    *Error occurs if the array size is not mentioned.
+        eg:
+        int[] arr=new int[];   //array dimension is missing.
+        
+
+    * character declared in single quotes 
+    * string in double quotes. String , s must be in capital. 
+
+    
+
+    * character array doesn't print when it prints with concatenation .
+        eg:
+        char arr[]={'a','b'}; 
+
+        System.out.println("character " +  arr);  // error occurs 
+
+
+    //condition statements  
+        in switch case , || or operator cannot be applied instead | is used. 
+
+
+    //looping
+
+        *if continue used and its true in if condition in loop , the code next to the continue doesn't work.
+
+        *break statement terminates the loop if the condition is true.
+
+        * string  class is immutable 
+        * string buffer and string builder is mutable , can be modified. 
+
+-----------------------------------------------------------------------------------
+
+
+
+
+
+
