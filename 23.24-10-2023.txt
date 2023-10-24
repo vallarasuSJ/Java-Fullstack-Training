@@ -1,0 +1,32 @@
+ Java Concepts 
+-------------
+    *Objects 
+    *Class 
+    *Method 
+        - With and without return type.
+        - With and without parameters.
+        - Overloading.
+    *Override 
+        - Run time polymorphism. 
+    *Inheritance 
+        *Upcasting 
+        *Downcasting
+    *Interface 
+    *Constructor 
+        -Overloading
+    *Abstract 
+        - Abstract class.
+        - Abstract methods.
+    *Date 
+        - SimpleDateFormat
+    *Threads 
+        - Thread class.
+        - Start().
+    *Collection 
+        - ArrayList 
+    *Exception 
+        - User defined excpetion. 
+        - Checked exception -> compile time exception (IOException.sqlexception).
+        - Unchecked exception -> runtime exception (ArithimeticException, ArrayIndexOutofBoundsException).
+    *Autoboxing -> primtive type to wrapper class
+    *Unboxing -> wrapper class to primitive type    
