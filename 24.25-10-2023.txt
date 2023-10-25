@@ -1,0 +1,43 @@
+Java Concepts 
+-------------
+    *Collection 
+        -List 
+            1.ArrayList 
+            2.LinkedList 
+        -Set 
+            1.HashSet 
+                -LinkedHashSet 
+            2.TreeSet 
+        -Map 
+            1.HashMap 
+    *File Handling 
+        -Reading a file 
+        -Wrtiting to file 
+        -Copying file
+    *JUnit testing 
+        -Maven dependencies 
+        -Annotation 
+            1.BeforeEach 
+            2.BeforeAll 
+            3.AfterEach 
+            4.AfterAll 
+            5.Test 
+            6.Disable 
+    *Thread 
+        -Deadlock 
+        -Preventing deadlock in the following ways,
+            1.Wait()
+            2.Notify()
+            3.NotifyAll()
+ 
+ 
+Java Excercise 
+---------------
+1. Check for pair in an array with a given sum.
+2. Find whether an array is a subset of another array.
+3. Finding Prime number between 1 to 100.
+4. Find whether the given string is a palindrome.
+5. Program to remove vowels from String.
+6. Display Fibonacci Series.
+7. Count occurrences of a character in String in Java.
+8. Count occurrences of substring in a string.
