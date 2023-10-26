@@ -1,0 +1,23 @@
+Java Concepts Implementation
+----------------------------
+    *File Handling 
+    *Abstraction 
+    *Inheritance 
+    *Polymorphism 
+    *Encapsulation 
+    *Model, View, Controller flow
+ 
+ 
+Task 
+----
+    *To build a java console application for E-Commerce 
+        -Login for user and admin
+        -Register for user and admin 
+        -Products 
+        -Cart 
+        -Orders 
+        -Logout 
+        -Add/Edit/Remove Products
+ 
+    ->Store and access data from file.
+    ->Use Model, View and Controller for the flow.
