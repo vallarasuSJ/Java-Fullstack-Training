@@ -1,0 +1,42 @@
+Java Concepts Implementation for the following
+
+----------------------------------------------
+
+    *Category 
+
+    *Products
+
+    *Cart 
+
+    *Orders 
+
+    *File read write for ORDERS 
+
+    *Date and TimeStamp 
+
+    *Logout
+ 
+ 
+Task 
+
+----
+
+    *To build a java console application for E-Commerce 
+
+        -Login for user and admin
+
+        -Register for user and admin 
+
+        -Products 
+
+        -Cart 
+
+        -Orders 
+
+        -Logout 
+
+        -Add/Edit/Remove Products
+ 
+    ->Store and access data from file.
+
+    ->Use Model, View and Controller for the flow.
