@@ -5,16 +5,14 @@ Task
         - Register 
         - Add Item 
         - Remove Item 
-        - Edit Item
  
     *Completed the java console application with JDBC for E-Commerce for the following requirements
-        -Login for user and admin
+        -Login for user
         -Register for user 
         -Products 
         -Cart 
         -Orders 
         -Logout 
-        -Add/Edit/Remove Products
  
     ->Store and access data from database.
     ->Use Model, View and Controller architecture.
