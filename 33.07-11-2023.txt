@@ -1,60 +1,41 @@
-Spring boot 
------------------------
-
-bubblesort
-quicksort
-binarysearch
- 
-tightly coupled-depand
-loosely coupled-using interface
- 
- 
-  --application context-->like main method
-  --bean ->object creation
-  --@component
-       --which class want  to create a object 
-  --@autoired
-        --interface implementation,no construtor and setter method
-  --@primary
-         --implement primary any one of the class
-  --@qualifier("bubble")
-         --similar to @primary
-   --autowiredByName
-         --no @primary,@qualifier
-          --give method name to interface injection
-           --eg:BubbleSortAlgoritham(method name)
-              private BinarysearchAlgorithm BubbleSortAlgorithm;-->give method name to depandency injection
-  --scope prototype-->for object different address
-  --jdbcconnection-->proxyMode=scopedProxyMode=TARGET_CLASS
- 
- 
-constructor
-------------------------------------------
-  --postConstructor->after constructor 
-  --preDestroy-->before destroy
-----------------------------------------------
- 
---@ComponentScan("packageName")-->different folder call
---CDI(Context Depandency Injection)
---@name--instead of @component
---@inject--instead of  @ autowired
---prototype-->new object creation
+Springboot
+-----------
+    -> Tightly coupled
+    -> Loosely coupled-using interface
+    -> Application context
+    -> Getbeans 
+    -> @Component
+    -> @Autowired
+    -> @Primary
+    -> @Qualifier()
+    -> @AutowiredByName
+    -> Scope prototype
+    -> Jdbcconnection
+    -> Constructor
+       * postConstructor
+       * preDestroy
+    -> @ComponentScan("packageName")-->different folder call
+    -> CDI(Context Depandency Injection)
+        * @name--instead of @component
+        * @inject--instead of  @ autowired
+        * prototype-->new object creation
  
 Spring
-----------------------------------------------------------------
-@configuration -->like @springboot in application file
-@ComponentScan("package Name")
-AnnotationConfigApplicationContext-->like main method
+------
+    -> @Configuration -->like @springboot in application file
+    -> @ComponentScan("package Name")
+    -> AnnotationConfigApplicationContext-->like main method
+ 
  
 Spring in Xml
-------------------------------------------------------------------
-import xml link
-ClassPathXmlApplicationContext-->main method
+-------------
+    -> Import xml link
+    -> ClassPathXmlApplicationContext-->main method
  
  
 Spring Boot
--------------------------------------------------
-created json array
-commandLineRunner
-Restcontroller
-Repository
+-----------
+    -> Created json array
+    -> CommandLineRunner
+    -> Restcontroller
+    -> Repository
