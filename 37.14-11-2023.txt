@@ -1,0 +1,18 @@
+Real estate listing portal
+--------------------------------------
+    *Started with backend part of the project by creating the following 
+        -> Models 
+            - AppUser
+            - Agent
+            - Customer
+            - Booked
+            - Role
+            - Property
+            -Address
+        -> Controller 
+        -> Request and Response Model
+        -> Security configuration 
+        -> Exception 
+        -> Service 
+        -> DTO 
+        -> Data loader 
