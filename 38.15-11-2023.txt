@@ -1,0 +1,13 @@
+Real estate listing portal
+--------------------------------------
+    *Continued with the backend part of the project 
+        -> Controller
+            - Agent Controller
+            - Auth Controller
+            
+        -> Add HttpRequests for the following in the controller
+                1. Login with validation
+                2. Register with validation
+                3. Add Agent detail
+                4. Add address
+                
