@@ -1,0 +1,23 @@
+Real estate listing portal
+--------------------------------------
+    *Continued with the backend part of the project 
+        -> Controller
+           - Customer Controller
+           - Property Controller
+           Admin
+                - Admin Property Controller
+                - Admin agent Controller
+                - Admin customer Controller
+        -> End points
+            -Admin 
+                -Get all customers
+                -Get all agents
+                -Get all properties
+            -Agent
+                -POST Property
+                -PUT Property
+                -DELETE Property
+            -Customer
+                -POST customer
+
+ 
