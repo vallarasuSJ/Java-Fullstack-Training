@@ -1,0 +1,14 @@
+Real estate listing portal
+--------------------------------------
+    *Completed the backend part for sprint 1 with the following 
+        - Address
+        - Agent 
+        - Customer
+        - Bookings
+        - Property
+        - Auth (Login/Register)
+ 
+    *Started with the UI part
+        - Login 
+        - Register 
+        - Home
