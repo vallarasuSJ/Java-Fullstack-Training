@@ -1,0 +1,16 @@
+Real estate listing portal
+--------------------------------------
+    *Started with the front-end part of the project using angular.
+        - Components 
+            1. Login 
+            2. Register 
+            3. Home 
+            4. BookedProperties
+            5. AddProperty 
+            6. Agents
+            7. Properties 
+            8. Navbar
+            9.customer-bookings
+        - Added Router to the components for the navigations.
+        - Included the required forms.
+        - Added custom and lottie animations
