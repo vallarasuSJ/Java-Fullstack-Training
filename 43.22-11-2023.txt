@@ -1,0 +1,9 @@
+Real estate listing portal
+--------------------------------------
+    *Continued with the integration of back end and front end.
+        - Integrated all the GET Methods 
+            -> GET Property
+            -> GET Customer bookings 
+            -> GET Agent properties
+            -> GET property details
+            -> GET booked properties
