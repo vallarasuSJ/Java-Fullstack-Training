@@ -1,0 +1,15 @@
+Real estate listing portal
+--------------------------------------
+    *Continued with the front end part of the project 
+        - Added form validation for 
+            1. Login 
+            2. Register
+            3. Add property Form 
+            
+        - Integrated login with the back-end.
+        - Started integrating other parts to the back-end.
+ 
+ 
+Topics 
+------
+    *Communication between components.
