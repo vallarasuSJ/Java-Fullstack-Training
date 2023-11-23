@@ -1,0 +1,15 @@
+Real estate listing portal
+--------------------------------------
+    *Continued with the integration of back end and 
+        - Integrated the POST methods.
+            -> POST Property 
+            -> POST Address 
+            -> POST register
+            -> POST Customer
+            -> POST AGENT
+ 
+        - Integrated the DELETE methods.
+            -> DELETE property 
+            -> DELETE booking 
+        -Integrated PUT methods.
+            ->PUT approve property.
