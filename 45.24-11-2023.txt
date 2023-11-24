@@ -1,0 +1,12 @@
+Real estate listing portal
+--------------------------------------
+    *Continued with the integration part of back end and front end  
+        - Integrated POST method
+            -> POST register
+            
+        - Integrated PUT method
+            ->PUT property
+
+        - Integrated get method
+            ->GET agent property
+            ->GET specific property

@@ -4,7 +4,6 @@ Real estate listing portal
         - Integrated the POST methods.
             -> POST Property 
             -> POST Address 
-            -> POST register
             -> POST Customer
             -> POST AGENT
  
