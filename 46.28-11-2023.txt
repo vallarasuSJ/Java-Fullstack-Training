@@ -1,0 +1,9 @@
+Real estate listing portal
+--------------------------------------
+    *Added a new model Category in both frontend and backend.
+        -Post method
+            -Post Category
+        -GET method
+            -get Category properties
+    *Enhanced admin approve property
+    *Enhanced property details
