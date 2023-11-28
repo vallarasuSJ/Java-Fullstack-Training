@@ -1,0 +1,7 @@
+Real estate listing portal
+--------------------------------------
+    *Continued with integration in Category
+        -GET all Category
+        -GET Category properties
+    *Added photo file in backend.
+    *Working on uploading image from frontend.
