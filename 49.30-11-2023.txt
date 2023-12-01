@@ -1,0 +1,15 @@
+
+Real estate listing portal
+--------------------------------------
+    *Added validation to add Property form.
+
+    *Added styling to the admin page, property page, property detail page.
+
+    *Added total no. of agents, properties, customers , bookings as cards in admin dashboard.
+
+    *Removed static images and added images from the backend to all the necessary pages.
+
+    *Added two GET methods in backend and Continued integration with admin page.
+        -GET agent properties
+        -GET customer bookings
+   
