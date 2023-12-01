@@ -1,0 +1,13 @@
+Real estate listing portal
+--------------------------------------
+    *Updated the agent properties to access edit and delete only for the specific agents.
+    
+    *Issue faced
+        -problem occured when edit or delete the property by agent.
+        -Resolved by modifying the backend by getting agentId from appUser which is mapped using foreign key.
+
+Topics Covered
+--------------
+        -> Struts
+        -> Lazy loading
+        -> Custom Form Validation
