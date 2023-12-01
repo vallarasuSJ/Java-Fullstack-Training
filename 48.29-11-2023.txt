@@ -1,0 +1,12 @@
+Real estate listing portal
+--------------------------------------
+    *Added photo upload in the front end.
+    *Modified the nav bar for each roles.
+    *Modified the customer bookings to show the bookings for each specific customers.
+    *Added lotties for customer bookings and admin dashboard.
+    *Added categories and footer in the main page.
+
+    *Issue faced
+        ->to display the image url in html ,it doesn't accepts the id number directly while looping.
+            To resolve the issue separate string interpolation used for url and the Id number.
+        

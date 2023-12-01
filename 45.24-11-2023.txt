@@ -8,5 +8,5 @@ Real estate listing portal
             ->PUT property
 
         - Integrated get method
-            ->GET agent property
-            ->GET specific property
+            ->GET all agent property
+            ->GET property details.
